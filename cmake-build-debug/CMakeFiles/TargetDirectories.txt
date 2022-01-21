@@ -1,0 +1,3 @@
+/Users/codingbaby/ClionProjects/althttpd/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/codingbaby/ClionProjects/althttpd/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/codingbaby/ClionProjects/althttpd/cmake-build-debug/CMakeFiles/althttpd.dir
